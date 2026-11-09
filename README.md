@@ -1,2 +1,0 @@
-# creditocontrol
-Control de creditos
